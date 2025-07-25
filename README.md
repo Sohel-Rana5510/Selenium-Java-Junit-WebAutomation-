@@ -49,5 +49,17 @@ This test focuses on scraping a live dynamic table from the Dhaka Stock Exchange
 <img width="1097" height="472" alt="image" src="https://github.com/user-attachments/assets/213ca494-060d-424f-84a0-816df788406f" />
 
 
+# Videos:
+
+
+
+
+https://github.com/user-attachments/assets/86f357ac-11c9-4d0b-ac5c-ba92aff9bd7a
+
+https://github.com/user-attachments/assets/66050b22-be85-4422-aee0-d6acba20a029
+
+
+
+
 
 
